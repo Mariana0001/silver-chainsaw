@@ -1,0 +1,11 @@
+#style_file 
+{
+	width:500px;
+	height:50px;
+	background-color:red;	
+}
+#style_file p
+{
+	text-align: left;
+	color: white;
+}
